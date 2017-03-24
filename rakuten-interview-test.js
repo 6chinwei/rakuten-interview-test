@@ -195,7 +195,8 @@ console.log('isWordExisting(\'SEE\')', isWordExisting('SEE')); // true
 console.log('isWordExisting(\'ABCB\')', isWordExisting('ABCB')); // false
 // Additional:
 console.log('Q4 extra');
-console.log('isWordExisting(\'ABSFA\')', isWordExisting('ABSFA')); // false
+console.log('isWordExisting(\'CESC\')', isWordExisting('CESC')); // true
+console.log('isWordExisting(\'CESCC\')', isWordExisting('CESCC')); // false
 
 /**
 Q5. Calculate the sum of two integers a and b, but you are not allowed to use the operator + and -. 
